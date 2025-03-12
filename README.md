@@ -1,4 +1,4 @@
-## Hi, I'm Santiago! 👋
+## Hello, I'm Santiago! 👋
 ![Green and Yellow Simple Congratulations Banner](https://github.com/user-attachments/assets/cb87e557-47d4-4188-b64b-222c55cb76bf)
 <!--
 **Sanlc10/Sanlc10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
