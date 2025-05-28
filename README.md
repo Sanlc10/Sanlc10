@@ -1,7 +1,7 @@
 <!-- Profile picture -->
 <p align="center">
-  <img src="Foto de perfil tipo ghibli.png" alt="Sanlc10 Avatar" width="180" style="border-radius:50%;"/>
-</p>
+  ![Foto de perfil tipo ghibli](https://github.com/user-attachments/assets/30450154-2e5a-460a-adb0-cc305f6d006c)
+
 
 <h1 align="center">Hi, I'm Santiago López Castañeda 👋</h1>
 <p align="center"><i>Data Analytics Bootcamp Student & International Business Undergraduate</i></p>
