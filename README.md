@@ -1,6 +1,6 @@
 <!-- Profile picture -->
 <p align="center">
-  <img src="https://github.com/Sanlc10/Sanlc10/raw/main/profile-image.jpg" alt="Sanlc10 Avatar" width="180" style="border-radius:50%;"/>
+  <img src="Foto de perfil tipo ghibli.png" alt="Sanlc10 Avatar" width="180" style="border-radius:50%;"/>
 </p>
 
 <h1 align="center">Hi, I'm Santiago López Castañeda 👋</h1>
