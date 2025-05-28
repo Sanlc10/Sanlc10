@@ -1,6 +1,7 @@
 <!-- Profile picture -->
 <p align="center">
-![Foto de perfil tipo ghibli](Foto%20de%20perfil%20tipo%20ghibli.png)
+  <img src="https://github.com/Sanlc10/Sanlc10/raw/main/profile-image.jpg" alt="Sanlc10 Avatar" width="180" style="border-radius:50%;"/>
+</p>
 
 <h1 align="center">Hi, I'm Santiago López Castañeda 👋</h1>
 <p align="center"><i>Data Analytics Bootcamp Student & International Business Undergraduate</i></p>
@@ -36,5 +37,5 @@
 ---
 
 <!--
-  
-  
+**Sanlc10/Sanlc10** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
