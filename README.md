@@ -1,6 +1,6 @@
 <!-- Profile picture -->
 <p align="center">
-  ![Foto de perfil tipo ghibli](Foto%20de%20perfil%20tipo%20ghibli.png)
+![Foto de perfil tipo ghibli](Foto%20de%20perfil%20tipo%20ghibli.png)
 
 <h1 align="center">Hi, I'm Santiago López Castañeda 👋</h1>
 <p align="center"><i>Data Analytics Bootcamp Student & International Business Undergraduate</i></p>
