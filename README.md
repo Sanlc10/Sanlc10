@@ -1,16 +1,41 @@
-## Hello, I'm Santiago! 👋
-![Green and Yellow Simple Congratulations Banner](https://github.com/user-attachments/assets/cb87e557-47d4-4188-b64b-222c55cb76bf)
+<!-- Profile picture -->
+<p align="center">
+  <img src="https://github.com/Sanlc10/Sanlc10/raw/main/profile-image.jpg" alt="Sanlc10 Avatar" width="180" style="border-radius:50%;"/>
+</p>
 
+<h1 align="center">Hi, I'm Santiago López Castañeda 👋</h1>
+<p align="center"><i>Data Analytics Bootcamp Student & International Business Undergraduate</i></p>
 
-## About me... 
+---
 
-- 🔭I am an International Business student with a growing interest in data analysis. Currently developing my skills in data cleaning,
-  visualization, and statistical analysis, I enjoy working with data to uncover insights that can improve business strategies.
-  Passionate about combining international business knowledge with data-driven decision-making to navigate global markets more effectively.
+### 🚀 About Me
 
-- 📫 How to reach me: 
-santiagocast.colegionaciones@gmail.com
-- ⚡ Curious fact:
-I am 18 years old...
+- 📊 Currently deepening my skills in data analytics and decision making
+- 🎓 Studying International Business and enrolled in a Data Analytics Bootcamp
+- 🐍 Python enthusiast, passionate about uncovering insights from data
+- 🛠️ Experienced with:  
+  - DataWrangling with Pandas  
+  - Data Visualization  
+  - CLI, Git & GitHub  
+  - Statistical analysis  
+  - Spreadsheets
+- 💡 Driven by curiosity and a desire to solve real-world problems with data
+
+---
+
+### ✨ Motto
+
+> *Philipians 4:13*  
+> “I can do all things through Christ who strengthens me.”
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/santiago-l%C3%B3pez-casta%C3%B1eda-347594303)
+
+---
+
+<!--
   
   
