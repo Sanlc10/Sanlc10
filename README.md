@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f9c31555-3207-489c-bea8-f8feb48536a5" width="180"/>
+ ![github-image-readme](https://github.com/user-attachments/assets/3c47f25d-65b3-4b61-9c86-8184c511cfd0)
 </p>
 
 <h1 align="center">Hi, I'm Santiago López Castañeda 👋</h1>
