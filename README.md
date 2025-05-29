@@ -2,7 +2,7 @@
  ![github-image-readme](https://github.com/user-attachments/assets/3c47f25d-65b3-4b61-9c86-8184c511cfd0)
 
 
-<h1 align="center">Hi, I'm Santiago López Castañeda 👋</h1>
+<h1 align="center">Hi, I'm Santiago Lopez Castañeda 👋</h1>
 <p align="center"><i>Data Analytics Bootcamp Student & International Business Undergraduate</i></p>
 
 ---
