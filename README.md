@@ -31,7 +31,7 @@
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/santiago-l%C3%B3pez-casta%C3%B1eda-347594303)
+- [LinkedIn](www.linkedin.com/in/santiago-lopez-347594303)
 
 ---
 
