@@ -28,11 +28,6 @@
 > “I can do all things through Christ who strengthens me.”
 
 ---
-
-### 📫 Connect with Me
-
-- [LinkedIn](www.linkedin.com/in/santiago-lopez-347594303)
-
 ---
 
 <!--
