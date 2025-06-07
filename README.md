@@ -3,7 +3,7 @@
 
 ---
 
-# 👋 ¡Hola! Soy Santiago López Castañeda
+# 👋 ¡Hola! Soy Santiago Lopez
 
 🎓 Estudiante de Administración de Negocios Internacionales
 
