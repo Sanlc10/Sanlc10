@@ -3,13 +3,15 @@
 
 ---
 
-👋 ¡Hola! Soy Santiago López Castañeda
+# 👋 ¡Hola! Soy Santiago López Castañeda
 
 🎓 Estudiante de Administración de Negocios Internacionales
 
 📊 En formación como Analista de Datos a través del bootcamp de TripleTen
 
 🌐 Apasionado por convertir datos en conocimiento accionable
+
+---
 
 🚀 Sobre este repositorio
 Este es mi repositorio de perfil en GitHub, donde puedes conocer un poco más sobre mí y explorar los proyectos que he desarrollado como parte de mi camino hacia la analítica de datos.
