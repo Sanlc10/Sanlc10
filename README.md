@@ -1,34 +1,36 @@
 
  ![github-image-readme](https://github.com/user-attachments/assets/3c47f25d-65b3-4b61-9c86-8184c511cfd0)
 
-
-<h1 align="center">Hi, I'm Santiago Lopez Castañeda 👋</h1>
-<p align="center"><i>Data Analytics Bootcamp Student & International Business Undergraduate</i></p>
-
 ---
 
-### 🚀 About Me
+👋 ¡Hola! Soy Santiago López Castañeda
+🎓 Estudiante de Administración de Negocios Internacionales
+📊 En formación como Analista de Datos a través del bootcamp de TripleTen
+🌐 Apasionado por convertir datos en conocimiento accionable
 
-- 📊 Currently deepening my skills in data analytics and decision making
-- 🎓 Studying International Business and enrolled in a Data Analytics Bootcamp
-- 🐍 Python enthusiast, passionate about uncovering insights from data
-- 🛠️ Experienced with:  
-  - DataWrangling with Pandas  
-  - Data Visualization  
-  - CLI, Git & GitHub  
-  - Statistical analysis  
-  - Spreadsheets
-- 💡 Driven by curiosity and a desire to solve real-world problems with data
+🚀 Sobre este repositorio
+Este es mi repositorio de perfil en GitHub, donde puedes conocer un poco más sobre mí y explorar los proyectos que he desarrollado como parte de mi camino hacia la analítica de datos.
 
----
+He trabajado con herramientas como:
 
-### ✨ Motto
+Python (pandas, numpy, matplotlib, plotly, scipy)
 
-> *Philipians 4:13*  
-> “I can do all things through Christ who strengthens me.”
+SQL (en proceso de aprendizaje)
+
+Git y GitHub
+
+Visualización de datos y narrativa con gráficos
 
 ---
----
+📫 ¿Te gustaría conectar?
+Estoy abierto a recibir consejos, oportunidades de colaboración o propuestas profesionales.
+Puedes encontrarme en:
+
+💼 LinkedIn
+
+🐍 GitHub
+
+📧 santiagocast.colegionaciones@gmail.com
 
 <!--
 **Sanlc10/Sanlc10** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
