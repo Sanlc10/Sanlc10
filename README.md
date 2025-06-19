@@ -1,5 +1,6 @@
 
-![SLC_data_analyst](https://github.com/user-attachments/assets/b631ec8c-d951-47e8-8e11-46d0bb51abed)
+![LinkedIn banner (1)](https://github.com/user-attachments/assets/d013080d-960b-441f-bf07-a3bed646f7a2)
+
 
 ---
 
