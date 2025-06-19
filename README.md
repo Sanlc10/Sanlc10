@@ -1,5 +1,5 @@
 
- ![github-image-readme](https://github.com/user-attachments/assets/3c47f25d-65b3-4b61-9c86-8184c511cfd0)
+![SLC_data_analyst](https://github.com/user-attachments/assets/b631ec8c-d951-47e8-8e11-46d0bb51abed)
 
 ---
 
