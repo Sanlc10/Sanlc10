@@ -47,6 +47,11 @@ My goal is to grow as a BI Analyst and use data to drive smarter decisions.
 </p>
 
 
+## GitHub Stats
+
+![Sanlc10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanlc10&show_icons=true&theme=github_dark)
+
+
 ## Let's Connect!
 
 <a href="https://www.linkedin.com/in/santiago-lopez-data-analyst/" target="_blank">
@@ -55,9 +60,6 @@ My goal is to grow as a BI Analyst and use data to drive smarter decisions.
 <a href="mailto:santiagocast.colegionaciones@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
-
-
 
 
 
