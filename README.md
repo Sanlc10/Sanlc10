@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e9526d07-c103-4b2e-8a72-c09236b4f95f" alt="LinkedIn banner (1)" width="80%"/>
+  <img src="https://github.com/user-attachments/assets/e75f2997-2085-4179-a937-6fb7ddc28be9" alt="LinkedIn banner (1)" width="80%"/>
 </p>
 
 
