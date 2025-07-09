@@ -47,9 +47,14 @@ My goal is to grow as a BI Analyst and use data to drive smarter decisions.
 </p>
 
 
-## GitHub Stats
+## My GitHub Activity
 
-![Sanlc10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanlc10&show_icons=true&theme=github_dark)
+[![Sanlc10's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanlc10&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanlc10&layout=compact&theme=github_withe)
 
 
 ## Let's Connect!
