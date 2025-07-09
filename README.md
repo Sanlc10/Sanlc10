@@ -3,42 +3,14 @@
 
 
 ---
+## About me 💼
+👋 Hi! I'm Santiago López, an International Business student and passionate Data Analyst in training.
+I specialize in transforming data into strategic insights through Python, SQL, and data visualization tools like Seaborn, Matplotlib, and Tableau (in progress).
 
-# 👋 ¡Hola! Soy Santiago Lopez
+🚀 I've worked on real-world projects, from analyzing ride-sharing trends in Chicago to identifying the most profitable mobile plans for a telecom company. My skill set includes exploratory analysis, statistical testing, and storytelling with data.
 
-🎓 Estudiante de Administración de Negocios Internacionales
-
-📊 En formación como Analista de Datos a través del bootcamp de TripleTen
-
-🌐 Apasionado por convertir datos en conocimiento accionable
-
----
-
-🚀 Sobre este repositorio
-Este es mi repositorio de perfil en GitHub, donde puedes conocer un poco más sobre mí y explorar los proyectos que he desarrollado como parte de mi camino hacia la analítica de datos.
-
-He trabajado con herramientas como:
-
-Python (pandas, numpy, matplotlib, plotly, scipy)
-
-SQL (en proceso de aprendizaje)
-
-Git y GitHub
-
-Visualización de datos y narrativa con gráficos
-
-Constantemente estoy subiendo proyectos en los que he trabajado, comenzando desde lo básico y yendo avanzando a algo más desafiante.
-
----
-📫 ¿Te gustaría conectar?
-Estoy abierto a recibir consejos, oportunidades de colaboración o propuestas profesionales.
-Puedes encontrarme en:
-
-💼 LinkedIn: www.linkedin.com/in/santiago-lopez-347594303
-
-🐍 GitHub
-
-📧 santiagocast.colegionaciones@gmail.com
+Currently, I’m expanding my portfolio and applying my skills through a Data Analyst Bootcamp and hands-on work with GitHub, Excel, and Google Sheets.
+🎯 My goal is to grow as a BI Analyst and use data to drive smarter decisions.
 
 <!--
 **Sanlc10/Sanlc10** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
