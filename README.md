@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d013080d-960b-441f-bf07-a3bed646f7a2" alt="LinkedIn banner (1)"/>
+  <img src="https://github.com/user-attachments/assets/e9526d07-c103-4b2e-8a72-c09236b4f95f"/>
 </p>
+
 
 ---
 
