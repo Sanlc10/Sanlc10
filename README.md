@@ -9,15 +9,15 @@
 
 ## About me 💼
 
-👋 Hi! I'm **Santiago López**, an International Business student and passionate Data Analyst in training.  
+Hi! I'm **Santiago López**, an International Business student and passionate Data Analyst in training.  
 I specialize in transforming data into strategic insights through Python, SQL, and data visualization tools like Seaborn, Matplotlib, and Tableau (in progress).
 
-🚀 I've worked on real-world projects, from analyzing ride-sharing trends in Chicago to identifying the most profitable mobile plans for a telecom company. My skill set includes exploratory analysis, statistical testing, and storytelling with data.
+I've worked on real-world projects, from analyzing ride-sharing trends in Chicago to identifying the most profitable mobile plans for a telecom company. My skill set includes exploratory analysis, statistical testing, and storytelling with data.
 
 Currently, I’m expanding my portfolio and applying my skills through a Data Analyst Bootcamp and hands-on work with GitHub, Excel, and Google Sheets.  
-🎯 My goal is to grow as a BI Analyst and use data to drive smarter decisions.
+My goal is to grow as a BI Analyst and use data to drive smarter decisions.
 
-## 🚀 Tools & Skills
+## Tools & Skills 
 
 <!-- Primera fila de badges -->
 <p align="left">
@@ -37,7 +37,7 @@ Currently, I’m expanding my portfolio and applying my skills through a Data An
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
 
-## 🧠 Soft Skills
+## Soft Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Storytelling-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white" alt="Storytelling"/>
@@ -47,7 +47,7 @@ Currently, I’m expanding my portfolio and applying my skills through a Data An
 </p>
 
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <a href="https://www.linkedin.com/in/santiago-lopez-data-analyst/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
