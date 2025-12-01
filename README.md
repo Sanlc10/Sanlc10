@@ -11,9 +11,9 @@
   
 # Hey there! I'm Santiago López 👋
 
-### 🚀 Software Developer | AI/ML Enthusiast | Automation Architect
+### 🚀 Prompt Engineer | AI Workflow Builder | Automation Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Building+intelligent+solutions;Automating+the+mundane;Crafting+beautiful+web+experiences;Turning+ideas+into+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=520&lines=Turning+prompts+into+products;Building+with+AI%2C+not+against+it;Crafting+intelligent+workflows;Claude+Code+is+my+co-pilot" alt="Typing SVG" />
 
 </div>
 
@@ -24,77 +24,74 @@
 ```python
 class Santiago:
     def __init__(self):
-        self.role = "Software Developer"
-        self.location = "🌎"
-        self.current_focus = ["AI/ML", "Web Development", "Automations"]
-        self.fun_fact = "I talk to Claude more than to my friends 🤖"
+        self.role = "Prompt Engineer"
+        self.superpower = "Making AI do exactly what I need"
+        self.tools = ["Claude Code", "n8n", "AI Assistants"]
+        self.building = "Websites, automations & AI workflows"
+        self.philosophy = "Work smarter, not harder"
     
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together.")
+    def how_i_work(self):
+        return "I don't just use AI — I collaborate with it."
 
 me = Santiago()
-me.say_hi()
+print(me.how_i_work())
 ```
 
-I'm a developer who transitioned from data analytics to building **intelligent software solutions**. I'm passionate about leveraging AI to solve real-world problems, creating seamless automations, and developing modern web applications that make a difference.
+I'm a **prompt engineer** who builds real things by effectively communicating with AI. I create websites, automate workflows, and develop AI-powered solutions — all by mastering the art of prompting tools like **Claude Code**. 
+
+I believe the future belongs to those who know how to speak the language of AI. 🤖
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ How I Build
 
 <details open>
-<summary><b>🤖 AI & Machine Learning</b></summary>
+<summary><b>🤖 AI Tools I Work With</b></summary>
 <br>
 <p align="left">
-  <img src="https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Claude_Code-6366F1?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/v0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0"/>
 </p>
 </details>
 
 <details open>
-<summary><b>🌐 Web Development</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-</details>
-
-<details open>
-<summary><b>⚙️ Automation & Integration</b></summary>
+<summary><b>⚙️ Automation & Workflows</b></summary>
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
   <img src="https://img.shields.io/badge/Make_(Integromat)-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make"/>
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
-  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 </details>
 
 <details open>
-<summary><b>🐍 Languages & Databases</b></summary>
+<summary><b>🌐 What I Build With AI</b></summary>
 <br>
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Backend</b></summary>
+<br>
+<p align="left">
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 </details>
 
@@ -106,9 +103,8 @@ I'm a developer who transitioned from data analytics to building **intelligent s
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 </details>
 
@@ -116,11 +112,23 @@ I'm a developer who transitioned from data analytics to building **intelligent s
 
 ## 🎯 What I'm Currently Up To
 
-- 🔭 Building AI-powered applications and automation workflows
-- 🌱 Deepening my knowledge in **LLMs**, **RAG systems**, and **AI agents**
-- 🤖 Using **Claude Code** to supercharge my development workflow
-- 💡 Creating automations with **n8n** to streamline processes
-- 🌐 Developing modern web apps with **React** and **Next.js**
+- 🤖 **Prompt Engineering** — Crafting precise prompts to build full applications with Claude Code
+- 🔄 **AI Workflows** — Designing intelligent automations with n8n and AI integrations
+- 🌐 **Web Development** — Building websites and apps by collaborating with AI assistants
+- 📚 **Learning** — Constantly exploring new AI tools and techniques to build faster & better
+- 💡 **Experimenting** — Testing the limits of what's possible with AI-assisted development
+
+---
+
+## 💡 My Approach
+
+> *"I don't write every line of code — I architect solutions and guide AI to build them."*
+
+I focus on:
+- **Understanding the problem** deeply before prompting
+- **Breaking down complex tasks** into clear, achievable steps
+- **Iterating and refining** AI outputs until they're production-ready
+- **Combining tools** strategically (Claude Code + n8n + APIs = magic ✨)
 
 ---
 
@@ -175,10 +183,9 @@ I'm a developer who transitioned from data analytics to building **intelligent s
   
   **Thanks for stopping by! ⭐**
   
-  *"The best way to predict the future is to build it."*
+  *"The best code is the code you didn't have to write yourself."*
   
 </div>
-
 
 
 
