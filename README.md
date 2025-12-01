@@ -181,9 +181,9 @@ I focus on:
   
   <img src="https://komarev.com/ghpvc/?username=Sanlc10&style=for-the-badge&color=6366F1" alt="Profile Views"/>
   
-  **Thanks for stopping by! ⭐**
+ 
   
-  *"The best code is the code you didn't have to write yourself."*
+  *"When prompting AI, the quality of the answer you get is determined by the quality of the question you make."*
   
 </div>
 
