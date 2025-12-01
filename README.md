@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="1584" height="396" alt="Banner linkedin nov 2025" src="https://github.com/user-attachments/assets/1b701569-20bc-4497-bc7c-92bc461f94cb" />
+  <img width="1584" height="396" alt="Banner linkedin nov 2025 (1)" src="https://github.com/user-attachments/assets/f5353260-0a93-44db-9973-f100c2981e6f" />
 </p>
 
 
